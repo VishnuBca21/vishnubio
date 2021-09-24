@@ -1,0 +1,138 @@
+body{
+
+  margin: 0;
+  font-size: 2em;
+  text-align: center;
+}
+.head{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  font-family: 'Merriweather',serif;
+  margin-bottom: 50px;
+}
+.middle-container{
+  margin-bottom: 50px;
+}
+.h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+  line-height: 2;
+}
+.sec-title{
+  color: #66BFBF;
+  margin: 0;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+
+}
+.h2{
+  color: #66BFBF;
+  margin: 0;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 50px;
+}
+
+.h3{
+  font-family: 'Montserrat',sans-serif;
+  color: #11999E;
+  font-size: 2.5rem;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.bottom_cloud{
+  position: absolute;
+  left:250px;
+}
+.top_cloud{
+  position: relative;
+  left: 250px;
+.python_image{
+  top: 40px;
+}
+.footer-link{
+  font-family: 'Montserrat',sans-serif;
+  color: white;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+.footer-link:hover{
+  color: blue;
+}
+  float: left;
+  width: 30%;
+  margin-right: 30px;
+
+}
+.html_image{
+  width: 30%;
+  margin-right: 30px;
+  float: right;
+}
+hr{
+
+  border-style: dotted;
+  border-width: 10px;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: grey;
+}
+.contact-me{
+  font-family: 'Montserrat',sans-serif;
+  height: 40%;
+  margin-bottom: 50px;
+}
+.bottom-container{
+  font-family: 'Montserrat',sans-serif;
+  padding: 25px;
+  text-decoration: none;
+  height: 30%;
+  background-color: #11999E;
+
+}
+.btn{
+  font-size: 2em;
+  font-family: 'Montserrat',sans-serif;
+
+  text-decoration: none;
+  color: white;
+}
+
+.button{
+  background-color: #11999E;
+  height: 50px;
+  border-radius: 8px;
+
+}
+p{
+  font-family: 'Montserrat',sans-serif;
+}
+
+.btn:hover{
+  color: blue;
+}
+.footer-link{
+  font-family: 'Montserrat',sans-serif;
+  color: white;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+.footer-link:hover{
+  color: blue;
+}
+.copyright{
+  font-size: 20px;
+}
+.profil{
+  border-radius: 50%;
+}
